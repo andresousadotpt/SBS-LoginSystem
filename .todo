@@ -9,14 +9,19 @@ Spring Boot:
 
 
 Finishing API (User CRUD):
+    Tests:
+        ☐ Create tests @created(23-01-17 23:05) @critical
+            search for what type of tests exists
     CI/CD:
-        ☐ Learning how to use github actions @created(23-01-17 22:59)
+        ☐ Learning how to use github actions @created(23-01-17 22:59) @high
             to use it with docker (See the point below)
-        ☐ Start working on CI/CD @created(23-01-17 22:54)
+        ☐ Start working on CI/CD @created(23-01-17 22:54) @high
             with docker or k8s, you decide
             we can use this https://docs.docker.com/language/java/configure-ci-cd/
             
     Hosting:
-    ☐ Use amazon aws? Or something like that @created(23-01-17 22:58)
+    ☐ Use amazon aws? Or something like that @created(23-01-17 22:58) @low
         Just to get used to amazon aws
+        @low because we can use local idk, we need ta least the docker part so we can deploy it everywhere
+    
     
