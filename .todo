@@ -1,2 +1,22 @@
-☐ see how to use BCrypt for passwords @created(23-01-17 22:43) @critical
-☐ We have to implement Spring Security @created(23-01-17 22:42) @low
+General:
+    ☐ Document everything in notion or like in gitbook @created(23-01-17 22:54)
+        I would prefer notion it can export to markdown
+
+Spring Boot:
+    ☐ see how to use BCrypt for passwords @created(23-01-17 22:43) @critical
+    ☐ We have to implement Spring Security @created(23-01-17 22:42) @high 
+
+
+
+Finishing API (User CRUD):
+    CI/CD:
+        ☐ Learning how to use github actions @created(23-01-17 22:59)
+            to use it with docker (See the point below)
+        ☐ Start working on CI/CD @created(23-01-17 22:54)
+            with docker or k8s, you decide
+            we can use this https://docs.docker.com/language/java/configure-ci-cd/
+            
+    Hosting:
+    ☐ Use amazon aws? Or something like that @created(23-01-17 22:58)
+        Just to get used to amazon aws
+    
